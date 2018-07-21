@@ -12,7 +12,7 @@ This repository is related with neural pain signature matching with resting-stat
 
 . Othernetworks contains resting-state networks from Smith; 
 
-. PainNet_Tor_Wager contains NPS signature maps and code2 to calculate cosine similarity between NPS and other brain images; Also you can refer to Tor’s github for more details. 
+. PainNet_Tor_Wager contains NPS signature maps and code to calculate cosine similarity between NPS and other brain images; Also you can refer to Tor’s github for more details. 
              https://github.com/canlab/Neuroimaging_Pattern_Masks
 
 . Pain_16_nodes contains the defined 5mm spheres from pain signature of Tor paper. 
