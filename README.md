@@ -17,6 +17,7 @@ This repository is related with neural pain signature matching with resting-stat
 
 . Pain_16_nodes contains the defined 5mm spheres from pain signature of Tor paper. 
 
+. Stats contain this paper's statistical analysis using R language.
 
 
 1.	Smith, S.M., et al. Correspondence of the brain's functional architecture during activation and rest. Proc Natl Acad Sci U S A 106, 13040-13045 (2009).
